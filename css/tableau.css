@@ -1,0 +1,21 @@
+table {
+  color: rgb(82, 43, 172);
+  background-color: lightsteelblue;
+  border-radius: 10px;
+}
+th {
+  border: solid 1px;
+  border-radius: 100px;
+  padding: 10px;
+  min-width: 50px;
+  min-height: 50px;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h1 {
+  color: white;
+}
